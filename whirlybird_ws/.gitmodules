@@ -1,0 +1,6 @@
+[submodule "src/whirlybird_description"]
+	path = src/whirlybird_description
+	url = https://magiccvs.byu.edu/gitlab/whirlybird/whirlybird_description.git
+[submodule "src/whirlybird_msgs"]
+	path = src/whirlybird_msgs
+	url = https://magiccvs.byu.edu/gitlab/whirlybird/whirlybird_msgs.git
