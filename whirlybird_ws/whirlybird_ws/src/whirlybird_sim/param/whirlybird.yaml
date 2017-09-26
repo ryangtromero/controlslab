@@ -1,0 +1,21 @@
+g: 9.81
+l1: 0.85
+l2: 0.3048
+m1: 0.891
+m2: 1.0
+d: 0.178
+h: 0.65
+r: 0.12
+Jx: 0.0047
+Jy: 0.0014
+Jz: 0.0041
+km: 5.223 #Note this is not the correct PWM. This will be found in lab4.
+    # It will work with the simulator but does not translate to hardware
+sigma_gyro: 8.7266e-5
+sigma_pixel: 0.05
+theta_max: 0.785398
+theta_min: -0.785398
+psi_max: 1.5708
+psi_min: -1.5708
+phi_max: 1.309
+phi_min: -1.309
